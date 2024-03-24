@@ -1,0 +1,21 @@
+.name{
+    font-family: 'Pricedown', Times, serif;
+}
+.bg{
+    background-color: rgb(67, 162, 163);
+}
+.table1{
+    background-color: rgb(157, 126, 203);
+}
+.table2{
+    background-color: rgb(241, 238, 244);
+}    
+.dt{
+    background-color: rgb(166, 224, 232);
+}
+.fs{
+    color: rgb(193, 82, 42);
+}
+b{ 
+    color:rgb(36, 99, 105); 
+}
